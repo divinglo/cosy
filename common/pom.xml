@@ -21,7 +21,7 @@
         <commons-io.version>2.6</commons-io.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <commons-collections4.version>4.1</commons-collections4.version>
-        <commons-compress.version>1.16.1</commons-compress.version>
+        <commons-compress.version>1.19</commons-compress.version>
         <guava.version>22.0</guava.version>
         <gson.version>2.7</gson.version>
         <fastjson.version>1.2.47</fastjson.version>
