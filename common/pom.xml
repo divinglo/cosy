@@ -28,7 +28,7 @@
         <httpcomponents.version>4.5.5</httpcomponents.version>
         <okhttp.version>3.10.0</okhttp.version>
         <reflectasm.version>1.11.3</reflectasm.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <core.version>3.3.2</core.version>
         <javase.version>3.3.2</javase.version>
     </properties>
